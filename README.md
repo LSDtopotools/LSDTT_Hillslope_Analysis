@@ -7,4 +7,4 @@ This code is part of the [LSDTopoTools software package](http://lsdtopotools.git
 
 The versions here are updated on a semi regular basis. 
 
-For instructions, go to the [LSDTopoTools documentation website](http://www.geos.ed.ac.uk/~smudd/LSDTT_book/LSDTT_docs.html) and download the raw data for the ESPL paper [here](http://www.geos.ed.ac.uk/~s0675405/LH_Data/LH_Data.zip) and the ESurfD paper [here](http://www.geos.ed.ac.uk/~s0675405/ER_Data/ER_Data.zip).
+For instructions, go to the [LSDTopoTools documentation website](http://lsdtopotools.github.io/LSDTT_book/) and download the raw data for the ESPL paper [here](http://www.geos.ed.ac.uk/~s0675405/LH_Data/LH_Data.zip) and the ESurfD paper [here](http://www.geos.ed.ac.uk/~s0675405/ER_Data/ER_Data.zip).
